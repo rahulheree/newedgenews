@@ -35,3 +35,15 @@ cd simple-news-publisher-backend
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+🤝 Contributing
+We ❤️ contributors!
+
+main: stable v1
+
+dev: active v2
+Please open Issues or Discussions before large PRs.
+Formatting: black + isort.
+
+🪪 License
+MIT – use freely.
