@@ -47,3 +47,4 @@ Formatting: black + isort.
 
 🪪 License
 MIT – use freely.
+Star ⭐ the repo if you liked it.
